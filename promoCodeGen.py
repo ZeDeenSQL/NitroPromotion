@@ -81,7 +81,7 @@ if opcion=='2':
 	            else:
 	                print(f'{Fore.LIGHTGREEN_EX}Valid Code >{Fore.RESET} ' + token)
 	        except Exception:
-	            print(f"{Fore.CYAN}Error, please contact fluro#0009 if error pursudes {Fore.RESET}")
+	            print(f"{Fore.CYAN}Error, please contact </0xZeDeen'211#0211 {Fore.RESET}")
 pass
 if opcion=='3':
 	os.system("cls")
